@@ -1,0 +1,25 @@
+READ ME
+
+Så här fungerar det:
+
+
+Sten – Sax – Påse (Bäst av 3)
+
+Först till 2 vinster vinner spelet.
+
+Så här spelar du:
+Välj ett alternativ:
+Klicka på en knapp:
+🪨 Sten – ✂️ Sax – 🧻 Påse
+Datorn väljer också ett alternativ (slumpmässigt).
+Resultatet visas direkt och poängen uppdateras.
+
+🥇 Regler:
+Sten krossar Sax
+Sax klipper Påse
+Påse fångar Sten
+Samma val = Oavgjort
+När någon vunnit 2 gånger → spelet är slut.
+Du kan då välja "Nytt spel" eller "Avsluta".
+
+Kör hårt! 💥
