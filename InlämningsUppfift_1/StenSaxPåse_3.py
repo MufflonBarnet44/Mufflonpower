@@ -126,3 +126,8 @@ nytt_spel_knapp = tk.Button(root, text="🔁 Nytt spel", width=15, command=nytt_
 avsluta_knapp = tk.Button(root, text="🚪 Avsluta", width=15, command=root.quit)
 
 root.mainloop()
+
+# git status
+# git add .
+# git commit -m"
+# git push
